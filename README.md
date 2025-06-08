@@ -1,6 +1,10 @@
 # PLP_AP_25
 Sbírej nebo zemři hra, odkaz ke stažení
 
+1) Nainstaluj si soubor, který je přiložen nad tímto README
+2) Otevři soubor v příslušné programovací aplikaci aplikaci (Thony, VSCode)
+3) Spusť program a užívej si hraní :)
+
 Dokumentace hry: Sbírej nebo zemři
 🎮 Název hry:
 Sbírej nebo zemři
